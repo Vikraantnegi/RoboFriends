@@ -1,5 +1,5 @@
 # robofriends
 My first React app.
-Clone repo
-npm install
-npm start
+1. Clone repo
+2. npm install
+3. npm start
